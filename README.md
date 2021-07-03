@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Designer, Music producer
 - 🔭 I’m currently working on a webapp[][website]!
-- 🥅 2020 Goals: learn more
+- 🥅 2021 Goals: learn more
 - ⚡ Fun fact: I love biriyani & oreo milkshake :P
 
 ### Connect with me:
