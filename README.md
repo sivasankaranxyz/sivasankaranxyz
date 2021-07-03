@@ -32,8 +32,6 @@ Trying to get things done!
 <br>
 
 ---
-<img align="left" alt="sivasankaran's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=sivasankaranxyz&show_icons=true&hide_border=true" />
-
 
 [twitter]: https://twitter.com/sivasankaranxyz
 [instagram]: https://instagram.com/sivasankaranxyz
