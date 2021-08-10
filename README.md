@@ -44,8 +44,6 @@ Trying to get things done!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sivasankaranxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sivasankaran-t" /> </p>
 <p align="center">
  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasankaranxyz&show_icons=true&locale=en&layout=compact" alt="sivasankaranxyz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasankaranxyz&show_icons=true&locale=en" alt="sivasankaranxyz" width="410" /></p>
 ..
 <hr>
