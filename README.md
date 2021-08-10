@@ -48,5 +48,5 @@ Trying to get things done!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivasankaranxyz&show_icons=true&locale=en&layout=compact" alt="sivasankaranxyz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasankaranxyz&show_icons=true&locale=en" alt="sivasankaranxyz" width="410" /></p>
-..
+
 <hr>
